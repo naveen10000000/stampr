@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naveen10000000.github.io/stampr/sitemap.xml
